@@ -1,3 +1,6 @@
+#This project is using localy hosted rest API to get Data-> http://localhost:3000/api/orders.
+#Please make sure you have something similar and change BASE_URL variable in /src/app/app.component.ts file.
+
 # Gridpoc
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.16.
